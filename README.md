@@ -12,7 +12,7 @@
 <div align="center">
 <h3>💻 Software License Analyst Intern | 🌏 Cracov, Poland </h3>
 </div>
-
+<br>
 👀 I’m interested in Data Analytics, Machine Learning
 🌱 I’m currently learning Python, SQL, Tablue
 📫 How to reach me https://www.linkedin.com/in/mateusz-jab%C5%82o%C5%84ski-bb693718a/
