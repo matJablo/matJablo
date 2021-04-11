@@ -1,4 +1,18 @@
-- 👋 Hi, I’m Mateusz 
+<div align="center">
+ <h1> Hi, I'm Mateusz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+</div>
+<br>
+
+<div align="center">
+ <a href="https://www.linkedin.com/in/mateusz-jab%C5%82o%C5%84ski-bb693718a/" target="_blank">
+   <img align="center" alt="Mateusz Jablonski | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
+
+<br>
+
+<div align="center">
+<h3>💻 Software License Analyst Intern | 🌏 Cracov, Poland </h3>
+</div>
+
 - 👀 I’m interested in Data Analytics, Machine Learning
 - 🌱 I’m currently learning Python, SQL, Tablue
 - 📫 How to reach me https://www.linkedin.com/in/mateusz-jab%C5%82o%C5%84ski-bb693718a/
