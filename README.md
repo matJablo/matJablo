@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mateusz 
+
 <div align="center">
  <h1> Hi, I'm Mateusz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 </div>
@@ -21,6 +21,7 @@
 matJablo/matJablo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br>
 ![Mateusz Jablonski Stats](https://github-readme-stats.vercel.app/api?username=matJablo)
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=matJablo&repo=Mechatronic-ATM-Project)](https://github.com/matJablo/Mechatronic-ATM-Project)
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=matJablo&repo=Crash-Course-on-Python-Answers)](https://github.com/matJablo/Crash-Course-on-Python-Answers)
