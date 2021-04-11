@@ -15,7 +15,7 @@
 </div>
 
 
-##About me:
+About me:
 
 - 👀 I’m interested in Data Analytics, Machine Learning
 - 🌱 I’m currently learning Python, SQL, Tablue
