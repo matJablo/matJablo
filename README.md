@@ -11,7 +11,7 @@
   </div>
 
 <div align="center">
-<h3>💻 Software License Analyst Intern | 🌏 Cracov, Poland </h3>
+<h3>💻 Software Asset Manager | 🌏 Cracov, Poland </h3>
 </div>
 
 
